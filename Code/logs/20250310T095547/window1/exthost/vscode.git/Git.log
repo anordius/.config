@@ -1,0 +1,43 @@
+2025-03-10 09:55:56.180 [info] [main] Log level: Info
+2025-03-10 09:55:56.180 [info] [main] Validating found git in: "git"
+2025-03-10 09:55:56.180 [info] [main] Using git "2.48.1" from "git"
+2025-03-10 09:55:56.180 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-10 09:55:56.180 [info] > git rev-parse --show-toplevel [6ms]
+2025-03-10 09:55:56.180 [info] > git rev-parse --git-dir --git-common-dir [12ms]
+2025-03-10 09:55:56.180 [info] [Model][openRepository] Opened repository: /home/arnold/.config/nvim
+2025-03-10 09:55:56.180 [info] > git rev-parse --show-toplevel [20ms]
+2025-03-10 09:55:56.180 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-03-10 09:55:56.180 [info] > git config --get commit.template [57ms]
+2025-03-10 09:55:56.180 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [52ms]
+2025-03-10 09:55:56.220 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/arnold/.config/nvim/.git/refs/remotes/origin/main'
+2025-03-10 09:55:56.406 [info] > git rev-parse refs/remotes/origin/main [186ms]
+2025-03-10 09:55:56.455 [info] > git status -z -uall [33ms]
+2025-03-10 09:55:56.455 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
+2025-03-10 09:55:56.583 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [46ms]
+2025-03-10 09:55:56.677 [info] > git config --get --local branch.main.vscode-merge-base [78ms]
+2025-03-10 09:55:56.677 [warning] [Git][config] git config failed: Failed to execute git
+2025-03-10 09:55:56.690 [info] > git config --get commit.template [119ms]
+2025-03-10 09:55:56.764 [info] > git reflog main --grep-reflog=branch: Created from *. [77ms]
+2025-03-10 09:55:56.825 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [49ms]
+2025-03-10 09:55:56.846 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [6ms]
+2025-03-10 09:55:56.862 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [38ms]
+2025-03-10 09:55:56.892 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/arnold/.config/nvim/.git/refs/remotes/origin/main'
+2025-03-10 09:55:56.893 [info] > git config --add --local branch.main.vscode-merge-base origin/main [31ms]
+2025-03-10 09:55:56.910 [info] > git rev-parse refs/remotes/origin/main [17ms]
+2025-03-10 09:55:56.972 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [47ms]
+2025-03-10 09:55:57.008 [info] > git config --get commit.template [98ms]
+2025-03-10 09:55:57.032 [info] > git check-ignore -v -z --stdin [13ms]
+2025-03-10 09:55:57.040 [info] > git config --get --local branch.main.vscode-merge-base [32ms]
+2025-03-10 09:55:57.087 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [36ms]
+2025-03-10 09:55:57.105 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2025-03-10 09:55:57.116 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/arnold/.config/nvim/.git/refs/remotes/origin/main'
+2025-03-10 09:55:57.117 [info] > git merge-base refs/heads/main refs/remotes/origin/main [17ms]
+2025-03-10 09:55:57.131 [info] > git rev-parse refs/remotes/origin/main [15ms]
+2025-03-10 09:55:57.165 [info] > git status -z -uall [13ms]
+2025-03-10 09:55:57.168 [info] > git diff --name-status -z --diff-filter=ADMR 803bc181d7c0d6d5eeba9274d9be49b287294d99...refs/remotes/origin/main [38ms]
+2025-03-10 09:55:57.170 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2025-03-10 09:55:57.973 [info] > git check-ignore -v -z --stdin [1ms]
+2025-03-10 09:56:00.187 [info] > git check-ignore -v -z --stdin [2ms]
+2025-03-10 09:56:02.310 [info] > git show --textconv :lua/config/options.lua [18ms]
+2025-03-10 09:56:02.317 [info] > git ls-files --stage -- lua/config/options.lua [8ms]
+2025-03-10 09:56:02.336 [info] > git cat-file -s 3ea1454fa3580ee1ca5e9e9e03b87e5269aed64b [8ms]

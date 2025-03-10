@@ -1,0 +1,21 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=false
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/wd/programming/books/ggplot2_cheat_sheet.pdf
+File2[$e]=$HOME/Desktop/Downloads/509BCE21- D.S. Using PYTHON.pdf
+File3[$e]=$HOME/wd/personal_docs/Risiti_Postgraduate_Ada_700k.pdf
+File4[$e]=$HOME/wd/work/table.pdf
+File5[$e]=$HOME/wd/school/Full.pdf
+Name1[$e]=ggplot2_cheat_sheet.pdf
+Name2[$e]=509BCE21- D.S. Using PYTHON.pdf
+Name3[$e]=Risiti_Postgraduate_Ada_700k.pdf
+Name4[$e]=table.pdf
+Name5[$e]=Full.pdf

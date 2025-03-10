@@ -1,0 +1,16 @@
+add Music/
+wq
+clear 
+filter 
+filter j
+vol 90%
+vol 80%
+vol 70%
+vol 80
+vol 100%
+set follow=true
+set follow
+vol 50%
+vol 40%
+vol 40
+add ~/Music/

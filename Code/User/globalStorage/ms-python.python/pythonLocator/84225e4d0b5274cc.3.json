@@ -1,0 +1,14 @@
+{
+  "environment": {
+    "executable": "/home/arnold/.virtualenvs/virt1/bin/python",
+    "prefix": "/home/arnold/.virtualenvs/virt1",
+    "version": "3.13.2.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/home/arnold/.virtualenvs/virt1/bin/python",
+      "/home/arnold/.virtualenvs/virt1/bin/python3",
+      "/home/arnold/.virtualenvs/virt1/bin/python3.13"
+    ]
+  },
+  "symlinks": []
+}
