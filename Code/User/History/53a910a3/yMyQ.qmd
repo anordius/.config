@@ -1,0 +1,10 @@
+# Introduction
+
+
+```{python}
+name = 'Brad'
+age = 37
+
+print(f'{name}\'s age: {age}')
+```
+

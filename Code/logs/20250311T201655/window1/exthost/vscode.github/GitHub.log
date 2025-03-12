@@ -1,0 +1,2 @@
+2025-03-11 20:17:23.683 [info] Log level: Info
+2025-03-11 21:28:43.042 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: getaddrinfo EAI_AGAIN api.github.com

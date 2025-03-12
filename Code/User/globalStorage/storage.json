@@ -7,9 +7,6 @@
         "folders": [
             {
                 "folderUri": "file:///home/arnold/wd"
-            },
-            {
-                "folderUri": "file:///home/arnold/.config"
             }
         ],
         "emptyWindows": []
@@ -27,14 +24,14 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/arnold/.config",
-            "backupPath": "/home/arnold/.config/Code/Backups/90a89d710033a7f63bf6ecf612eee45f",
+            "folder": "file:///home/arnold/wd",
+            "backupPath": "/home/arnold/.config/Code/Backups/d2777836acd03e3219205ea48e8b9aad",
             "uiState": {
                 "mode": 1,
-                "x": 10,
-                "y": 46,
-                "width": 693,
-                "height": 797
+                "x": 640,
+                "y": 0,
+                "width": 640,
+                "height": 762
             }
         },
         "openedWindows": []
@@ -67,6 +64,14 @@
             "auxiliarySideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "auxiliarySideBarWidth": [
+                300,
+                []
+            ]
         }
     }
 }

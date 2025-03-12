@@ -1,0 +1,25 @@
+2025-03-11 04:45:16.432 [info] Started local extension host with pid 68728.
+2025-03-11 04:45:20.214 [error] [chat setup] request: error Offline: Offline
+2025-03-11 04:45:22.282 [error] Error while getting the latest version for the extension github.codespaces. Offline
+2025-03-11 04:45:22.308 [error] Error while getting the latest version for the extension ms-python.python. Offline
+2025-03-11 04:45:22.320 [error] Error while getting the latest version for the extension ms-toolsai.jupyter-keymap. Offline
+2025-03-11 04:45:22.329 [error] Error while getting the latest version for the extension ms-toolsai.jupyter-renderers. Offline
+2025-03-11 04:45:22.329 [error] Error while getting the latest version for the extension ms-toolsai.vscode-jupyter-cell-tags. Offline
+2025-03-11 04:45:22.338 [error] Error while getting the latest version for the extension james-yu.latex-workshop. Offline
+2025-03-11 04:45:22.343 [error] Error while getting the latest version for the extension ms-python.debugpy. Offline
+2025-03-11 04:45:22.349 [error] Error while getting the latest version for the extension ms-python.vscode-pylance. Offline
+2025-03-11 04:45:22.356 [error] Error while getting the latest version for the extension ms-toolsai.jupyter. Offline
+2025-03-11 04:45:22.365 [error] Error while getting the latest version for the extension ms-toolsai.vscode-jupyter-slideshow. Offline
+2025-03-11 04:45:22.368 [error] Error while getting the latest version for the extension quarto.quarto. Offline
+2025-03-11 04:45:22.375 [error] Error while getting the latest version for the extension reditorsupport.r. Offline
+2025-03-11 04:45:24.739 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-03-11 04:45:28.615 [info] Extension host (LocalProcess pid: 68728) is unresponsive.
+2025-03-11 04:45:28.729 [info] Extension host (LocalProcess pid: 68728) is responsive.
+2025-03-11 04:45:29.389 [warning] Creation of workbench contribution 'workbench.contrib.dynamicWindowConfiguration' took 113ms.
+2025-03-11 04:45:32.905 [warning] Failed to fetch chat participant registry Offline
+2025-03-11 04:45:33.728 [info] [perf] Render performance baseline is 947ms
+2025-03-11 04:45:48.511 [info] Extension host (LocalProcess pid: 68728) is unresponsive.
+2025-03-11 04:45:51.428 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-03-11 04:45:52.329 [info] Extension host (LocalProcess pid: 68728) is responsive.
+2025-03-11 04:45:52.330 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-03-11 04:45:53.485 [warning] UNRESPONSIVE extension host: 'github.codespaces' took 74.21616497845183% of 673.341ms, saved PROFILE here: 'file:///tmp/exthost-cb19f7.cpuprofile'

@@ -5,17 +5,58 @@ FullScreen=false
 LockSidebar=true
 ShowSidebar=false
 
+[Interface]
+ResolutionX=14.1732529
+ResolutionY=14.1732529
+Rulers=false
+StatusBarShowLineNumber=true
+StatusBarShowModified=true
+StatusBarShowMouse=false
+StatusBarShowPage=true
+StatusBarShowPageSize=false
+StatusBarShowPageStyle=true
+StatusBarShowWordCount=false
+StatusBarShowZoom=true
+ViewFieldShadings=true
+ViewFormattingChars=false
+ViewFrameBorders=true
+ViewSectionBounds=false
+ViewTableBorders=true
+Zoom=100
+ZoomMode=1
+
 [MainWindow]
 MenuBar=Disabled
 
+[Misc]
+Units=in
+
 [Recent Files]
-File1[$e]=$HOME/wd/programming/books/ggplot2_cheat_sheet.pdf
-File2[$e]=$HOME/Desktop/Downloads/509BCE21- D.S. Using PYTHON.pdf
-File3[$e]=$HOME/wd/personal_docs/Risiti_Postgraduate_Ada_700k.pdf
-File4[$e]=$HOME/wd/work/table.pdf
-File5[$e]=$HOME/wd/school/Full.pdf
-Name1[$e]=ggplot2_cheat_sheet.pdf
-Name2[$e]=509BCE21- D.S. Using PYTHON.pdf
-Name3[$e]=Risiti_Postgraduate_Ada_700k.pdf
-Name4[$e]=table.pdf
-Name5[$e]=Full.pdf
+File1[$e]=$HOME/wd/personal_docs/Risiti_Postgraduate_Ada_700k.pdf
+File10[$e]=$HOME/Downloads/DOTTORATO+DEFINITIVA+PDF_compressed.pdf
+File2[$e]=$HOME/wd/work/table.pdf
+File3[$e]=$HOME/wd/school/Full.pdf
+File4[$e]=$HOME/wd/git/school/summaries/anordius_indiv_assign_marketing_drtemu.pdf
+File5[$e]=$HOME/wd/school/ENAREC 1/SAFIA_INDIVIDUAL ASSIGNMENT S_RESPONSES/CamScanner 02-24-2024 15.31.pdf
+File6[$e]=$HOME/wd/school/ENAREC 1/FOE 610 Introduction to microeconomics book.pdf
+File7[$e]=$HOME/Desktop/Downloads/SIIMA SALOME BAKENGESA.pdf
+File8[$e]=$HOME/wd/git/school/msc-proposal/DAP_proposal_dev.docx
+File9[$e]=$HOME/wd/school/ENAREC_2024_2026/marketing/Kotler_marketing_principles.pdf
+Name1[$e]=Risiti_Postgraduate_Ada_700k.pdf
+Name10[$e]=DOTTORATO+DEFINITIVA+PDF_compressed.pdf
+Name2[$e]=table.pdf
+Name3[$e]=Full.pdf
+Name4[$e]=anordius_indiv_assign_marketing_drtemu.pdf
+Name5[$e]=CamScanner 02-24-2024 15.31.pdf
+Name6[$e]=FOE 610 Introduction to microeconomics book.pdf
+Name7[$e]=SIIMA SALOME BAKENGESA.pdf
+Name8[$e]=DAP_proposal_dev.docx
+Name9[$e]=Kotler_marketing_principles.pdf
+
+[calligra]
+DockerPlugins=calligra_docker_defaults,calligra_docker_stencils
+DockerPluginsDisabled=
+ShapePlugins=braindump_shape_web,calligra_shape_artistictext,calligra_shape_chart,calligra_shape_formula,calligra_shape_music,calligra_shape_paths,calligra_shape_picture,calligra_shape_plugin,calligra_shape_text,calligra_shape_threed,calligra_shape_vector,calligra_shape_video
+ShapePluginsDisabled=
+ToolPlugins=calligra_tool_basicflakes,calligra_tool_defaults,karbon_tools
+ToolPluginsDisabled=

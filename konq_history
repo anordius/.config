@@ -1,0 +1,6 @@
+[History]
+CompletionItems=unused
+
+[Location Bar]
+ComboContents[$e]=https://duckduckgo.com/?q=xmobar style kde&t=kde,https://duckduckgo.com/?q=kde store&t=kde,https://duckduckgo.com/?q=krohnkite&t=kde
+ComboIconCache[$e]=https://duckduckgo.com/?q=xmobar style kde&t=kde,$HOME/.cache/favicons/duckduckgo.com.png,https://duckduckgo.com/?q=kde store&t=kde,$HOME/.cache/favicons/duckduckgo.com.png,https://duckduckgo.com/?q=krohnkite&t=kde,$HOME/.cache/favicons/duckduckgo.com.png

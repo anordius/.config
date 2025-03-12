@@ -1,0 +1,9 @@
+2025-03-11 11:06:01.942 [info] Started local extension host with pid 32149.
+2025-03-11 11:06:16.443 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-03-11 11:06:19.009 [warning] Creation of workbench contribution 'workbench.contrib.configurationMigration' took 119ms.
+2025-03-11 11:06:20.007 [info] [perf] Render performance baseline is 604ms
+2025-03-11 11:06:35.804 [info] Extension host (LocalProcess pid: 32149) is unresponsive.
+2025-03-11 11:06:40.211 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-03-11 11:06:42.949 [info] Extension host (LocalProcess pid: 32149) is responsive.
+2025-03-11 11:06:42.955 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-03-11 11:06:43.681 [warning] UNRESPONSIVE extension host: 'github.codespaces' took 77.30262345701426% of 2128.973ms, saved PROFILE here: 'file:///tmp/exthost-4377be.cpuprofile'

@@ -1,0 +1,7 @@
+file:///home/arnold/wd/programming/python/ArnoldLearnPython/practice.qmd {"mtime":1741660274738,"ctime":1741660274738,"size":0,"etag":"3ds0op7h10","orphaned":false,"typeId":""}
+#### NumPy Standard Data Types
+
+![image.png](attachment:image.png)
+```{python}
+import numpy as np
+```

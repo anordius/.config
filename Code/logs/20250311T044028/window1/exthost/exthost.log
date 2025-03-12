@@ -1,0 +1,21 @@
+2025-03-11 04:40:34.349 [info] Extension host with pid 66829 started
+2025-03-11 04:40:34.349 [info] Skipping acquiring lock for /home/arnold/.config/Code/User/workspaceStorage/83eb79267c3ed79721ec5476be82802d.
+2025-03-11 04:40:34.530 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-03-11 04:40:34.717 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2025-03-11 04:40:35.059 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-03-11 04:40:35.228 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-03-11 04:40:35.896 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-03-11 04:40:36.969 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2025-03-11 04:40:39.471 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2025-03-11 04:40:39.480 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-cell-tags, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2025-03-11 04:40:39.496 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-slideshow, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2025-03-11 04:40:39.538 [info] ExtensionService#_doActivateExtension REditorSupport.r, startup: true, activationEvent: 'workspaceContains:**/*.{rproj,Rproj,r,R,rd,Rd,rmd,Rmd}'
+2025-03-11 04:40:41.091 [info] ExtensionService#_doActivateExtension quarto.quarto, startup: true, activationEvent: 'workspaceContains:**/*.{qmd,rmd},**/_quarto.{yml,yaml},**/_brand.{yml,yaml},**/_extension.{yml,yaml}'
+2025-03-11 04:40:45.671 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2025-03-11 04:40:47.808 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2025-03-11 04:40:47.888 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-03-11 04:40:48.114 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-11 04:40:48.128 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-11 04:40:51.653 [info] Eager extensions activated
+2025-03-11 04:40:52.075 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-03-11 04:40:52.468 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'

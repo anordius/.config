@@ -1,0 +1,21 @@
+2025-03-11 04:43:35.479 [info] Started local extension host with pid 67971.
+2025-03-11 04:43:39.459 [error] [chat setup] request: error Offline: Offline
+2025-03-11 04:43:42.354 [error] Error while getting the latest version for the extension github.codespaces. Offline
+2025-03-11 04:43:42.355 [error] Error while getting the latest version for the extension james-yu.latex-workshop. Offline
+2025-03-11 04:43:42.365 [error] Error while getting the latest version for the extension ms-python.debugpy. Offline
+2025-03-11 04:43:42.375 [error] Error while getting the latest version for the extension ms-python.python. Offline
+2025-03-11 04:43:42.380 [error] Error while getting the latest version for the extension ms-python.vscode-pylance. Offline
+2025-03-11 04:43:42.393 [error] Error while getting the latest version for the extension ms-toolsai.jupyter-keymap. Offline
+2025-03-11 04:43:42.402 [error] Error while getting the latest version for the extension ms-toolsai.jupyter. Offline
+2025-03-11 04:43:42.403 [error] Error while getting the latest version for the extension ms-toolsai.jupyter-renderers. Offline
+2025-03-11 04:43:42.414 [error] Error while getting the latest version for the extension ms-toolsai.vscode-jupyter-cell-tags. Offline
+2025-03-11 04:43:42.425 [error] Error while getting the latest version for the extension ms-toolsai.vscode-jupyter-slideshow. Offline
+2025-03-11 04:43:42.427 [error] Error while getting the latest version for the extension quarto.quarto. Offline
+2025-03-11 04:43:42.438 [error] Error while getting the latest version for the extension reditorsupport.r. Offline
+2025-03-11 04:43:42.984 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-03-11 04:43:44.527 [info] Extension host (LocalProcess pid: 67971) is unresponsive.
+2025-03-11 04:43:45.522 [warning] Failed to fetch chat participant registry Offline
+2025-03-11 04:43:47.115 [info] Extension host (LocalProcess pid: 67971) is responsive.
+2025-03-11 04:43:52.713 [info] [perf] Render performance baseline is -1ms
+2025-03-11 04:44:06.435 [info] Extension host (LocalProcess pid: 67971) is unresponsive.
+2025-03-11 04:44:07.704 [info] Extension host (LocalProcess pid: 67971) is responsive.

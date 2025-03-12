@@ -1,0 +1,76 @@
+2025-03-11 04:48:58.504 [info] [main] Log level: Info
+2025-03-11 04:48:58.504 [info] [main] Validating found git in: "git"
+2025-03-11 04:48:58.504 [info] [main] Using git "2.48.1" from "git"
+2025-03-11 04:48:58.504 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-11 04:48:58.504 [info] > git rev-parse --show-toplevel [2590ms]
+2025-03-11 04:48:58.504 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-11 04:48:58.504 [info] > git rev-parse --show-toplevel [1058ms]
+2025-03-11 04:48:58.504 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-11 04:48:58.504 [info] > git rev-parse --show-toplevel [1303ms]
+2025-03-11 04:48:58.504 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-11 04:49:02.157 [info] > git rev-parse --show-toplevel [3611ms]
+2025-03-11 04:49:02.157 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-11 04:49:02.761 [info] > git rev-parse --show-toplevel [114ms]
+2025-03-11 04:49:02.761 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-11 04:49:03.000 [info] > git rev-parse --show-toplevel [91ms]
+2025-03-11 04:49:03.000 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-11 04:49:03.095 [info] > git rev-parse --show-toplevel [49ms]
+2025-03-11 04:49:03.095 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-11 04:49:03.127 [info] > git rev-parse --show-toplevel [7ms]
+2025-03-11 04:49:03.127 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-11 04:49:03.146 [info] > git rev-parse --show-toplevel [5ms]
+2025-03-11 04:49:03.146 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-11 04:49:03.232 [info] > git rev-parse --show-toplevel [66ms]
+2025-03-11 04:49:03.256 [info] > git rev-parse --git-dir --git-common-dir [8ms]
+2025-03-11 04:49:03.287 [info] [Model][openRepository] Opened repository: /home/arnold/wd/personal_docs
+2025-03-11 04:49:03.380 [info] > git rev-parse --show-toplevel [17ms]
+2025-03-11 04:49:03.380 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-11 04:49:03.389 [info] > git config --get commit.template [71ms]
+2025-03-11 04:49:03.506 [info] [Git][getRemotes] No remotes found in the git config file
+2025-03-11 04:49:03.509 [info] > git rev-parse --show-toplevel [77ms]
+2025-03-11 04:49:03.509 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-11 04:49:03.571 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [66ms]
+2025-03-11 04:49:03.633 [info] > git rev-parse --show-toplevel [65ms]
+2025-03-11 04:49:03.633 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-11 04:49:03.669 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [44ms]
+2025-03-11 04:49:03.677 [info] > git rev-parse --show-toplevel [10ms]
+2025-03-11 04:49:03.705 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2025-03-11 04:49:03.732 [info] [Model][openRepository] Opened repository: /home/arnold/wd/work
+2025-03-11 04:49:03.744 [info] [Model][doInitialScan] Initial repository scan completed - repositories (2), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-03-11 04:49:03.786 [info] > git status -z -uall [190ms]
+2025-03-11 04:49:03.878 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [42ms]
+2025-03-11 04:49:03.930 [info] > git config --get commit.template [148ms]
+2025-03-11 04:49:04.025 [info] > git config --get --local branch.master.vscode-merge-base [95ms]
+2025-03-11 04:49:04.028 [warning] [Git][config] git config failed: Failed to execute git
+2025-03-11 04:49:04.050 [info] > git config --get commit.template [185ms]
+2025-03-11 04:49:04.103 [info] > git reflog master --grep-reflog=branch: Created from *. [54ms]
+2025-03-11 04:49:04.140 [info] [Git][getRemotes] No remotes found in the git config file
+2025-03-11 04:49:04.141 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [39ms]
+2025-03-11 04:49:04.163 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/arnold/wd/work/.git/refs/remotes/origin/master'
+2025-03-11 04:49:04.166 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [27ms]
+2025-03-11 04:49:04.225 [info] > git rev-parse refs/remotes/origin/master [62ms]
+2025-03-11 04:49:04.269 [info] > git status -z -uall [78ms]
+2025-03-11 04:49:04.269 [info] > git status -z -uall [28ms]
+2025-03-11 04:49:04.271 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [51ms]
+2025-03-11 04:49:04.274 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+2025-03-11 04:49:04.346 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [39ms]
+2025-03-11 04:49:04.375 [info] > git config --get --local branch.master.vscode-merge-base [9ms]
+2025-03-11 04:49:04.392 [info] > git config --get commit.template [52ms]
+2025-03-11 04:49:04.415 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [23ms]
+2025-03-11 04:49:07.883 [info] > git merge-base refs/heads/master refs/remotes/origin/master [3446ms]
+2025-03-11 04:49:08.002 [info] > git diff --name-status -z --diff-filter=ADMR 0f16a147375bdda83a03a704ea7b9e187484ac41...refs/remotes/origin/master [99ms]
+2025-03-11 04:49:08.003 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3473ms]
+2025-03-11 04:49:08.318 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/arnold/wd/work/.git/refs/remotes/origin/master'
+2025-03-11 04:49:08.367 [info] > git rev-parse refs/remotes/origin/master [49ms]
+2025-03-11 04:49:08.530 [info] > git status -z -uall [127ms]
+2025-03-11 04:49:08.531 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [55ms]
+2025-03-11 04:50:39.000 [info] > git rev-parse --show-toplevel [41ms]
+2025-03-11 04:50:39.003 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-11 04:51:20.277 [info] > git rev-parse --show-toplevel [17ms]
+2025-03-11 04:51:20.277 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-11 04:51:21.217 [info] > git rev-parse --show-toplevel [13ms]
+2025-03-11 04:51:21.217 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-11 04:51:21.270 [info] > git rev-parse --show-toplevel [5ms]
+2025-03-11 04:51:21.270 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-11 04:52:03.074 [info] > git rev-parse --show-toplevel [32ms]
+2025-03-11 04:52:03.075 [info] fatal: not a git repository (or any of the parent directories): .git

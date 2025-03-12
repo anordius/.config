@@ -1,0 +1,73 @@
+Visual Studio Code (1.98.0, undefined, desktop)
+Jupyter Extension Version: 2025.2.0.
+Python Extension Version: 2025.2.0.
+Pylance Extension Version: 2025.3.1.
+Platform: linux (x64).
+Home = /home/arnold
+Temp Storage folder ~/.config/Code/User/globalStorage/ms-toolsai.jupyter/version-2025.2.0
+Workspace folder ~/wd
+04:52:44.951 [info] Starting Kernel (Python Path: ~/.virtualenvs/virt1/bin/python, VirtualEnvWrapper, 3.13.2) for '~/wd/programming/python/~LearnPython/practice_ground.ipynb' (disableUI=true)
+04:52:57.855 [info] Process Execution: ~/.virtualenvs/virt1/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+04:52:57.874 [info] Process Execution: ~/.virtualenvs/virt1/bin/python -m ipykernel_launcher --f=/run/user/1000/jupyter/runtime/kernel-v329385be6a6957c32ff7a9e51d6f63a5c5c42bc47.json
+    > cwd: ~/wd/programming/python/~LearnPython
+04:52:57.942 [info] Process Execution: ~/.virtualenvs/virt1/bin/python -m pip list
+04:53:02.207 [info] Kernel successfully started
+04:53:02.285 [info] Process Execution: ~/.virtualenvs/virt1/bin/python /home/~/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-x64/pythonFiles/printJupyterDataDir.py
+04:59:29.813 [info] Process Execution: ~/.virtualenvs/virt1/bin/python -m pip list
+04:59:33.621 [info] Starting Kernel (Python Path: ~/.virtualenvs/virt1/bin/python, VirtualEnvWrapper, 3.13.2) for '/Interactive-1.interactive' (disableUI=false)
+04:59:33.687 [info] Process Execution: ~/.virtualenvs/virt1/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+04:59:34.715 [info] Process Execution: ~/.virtualenvs/virt1/bin/python -m ipykernel_launcher --f=/run/user/1000/jupyter/runtime/kernel-v3f586009731fbd74c30e901a42959abdd3080094e.json
+    > cwd: ~/wd/programming/python/~LearnPython
+04:59:37.512 [info] Kernel successfully started
+04:59:37.571 [info] Generated code for 1 = <ipython-input-1-ac1d6fdce298> with 4 lines
+05:00:32.507 [warn] Cell completed with errors su [Error]: name 'prin' is not defined
+    at n.execute (/home/~/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-x64/dist/extension.node.js:294:4958) {
+  ename: 'NameError',
+  evalue: "name 'prin' is not defined",
+  traceback: [
+    '\x1B[31m---------------------------------------------------------------------------\x1B[39m',
+    '\x1B[31mNameError\x1B[39m                                 Traceback (most recent call last)',
+    '\x1B[36mCell\x1B[39m\x1B[36m \x1B[39m\x1B[32mIn[2]\x1B[39m\x1B[32m, line 1\x1B[39m\n' +
+      "\x1B[32m----> \x1B[39m\x1B[32m1\x1B[39m \x1B[43mprin\x1B[49m(\x1B[33mf\x1B[39m\x1B[33m'\x1B[39m\x1B[38;5;132;01m{\x1B[39;00mname\x1B[38;5;132;01m}\x1B[39;00m\x1B[33m:, \x1B[39m\x1B[38;5;132;01m{\x1B[39;00mage\x1B[38;5;132;01m}\x1B[39;00m\x1B[33m'\x1B[39m)\n",
+    "\x1B[31mNameError\x1B[39m: name 'prin' is not defined"
+  ]
+}
+05:02:07.646 [warn] Cell completed with errors su [Error]: unterminated string literal (detected at line 1) (<ipython-input-6-71eae20bc8f4>, line 1)
+    at n.execute (/home/~/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-x64/dist/extension.node.js:294:4958) {
+  ename: 'SyntaxError',
+  evalue: 'unterminated string literal (detected at line 1) (<ipython-input-6-71eae20bc8f4>, line 1)',
+  traceback: [
+    '  \x1B[36mCell\x1B[39m\x1B[36m \x1B[39m\x1B[32mIn[6]\x1B[39m\x1B[32m, line 1\x1B[39m\n' +
+      "\x1B[31m    \x1B[39m\x1B[31mprint(f'{name}'s age: {age}')\x1B[39m\n" +
+      '                               ^\n' +
+      '\x1B[31mSyntaxError\x1B[39m\x1B[31m:\x1B[39m unterminated string literal (detected at line 1)\n'
+  ]
+}
+05:02:58.603 [info] Generated code for 8 = <ipython-input-8-6af515416137> with 4 lines
+05:03:09.353 [info] Generated code for 9 = <ipython-input-9-6af515416137> with 4 lines
+05:03:11.029 [info] Generated code for 10 = <ipython-input-10-6af515416137> with 4 lines
+05:03:11.580 [info] Generated code for 11 = <ipython-input-11-6af515416137> with 4 lines
+05:03:11.868 [info] Generated code for 12 = <ipython-input-12-6af515416137> with 4 lines
+05:03:12.091 [info] Generated code for 13 = <ipython-input-13-6af515416137> with 4 lines
+05:03:13.529 [info] Generated code for 14 = <ipython-input-14-6af515416137> with 4 lines
+05:23:18.089 [warn] Cell completed with errors su [Error]: name 'x' is not defined
+    at n.execute (/home/~/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-x64/dist/extension.node.js:294:4958) {
+  ename: 'NameError',
+  evalue: "name 'x' is not defined",
+  traceback: [
+    '\x1B[31m---------------------------------------------------------------------------\x1B[39m',
+    '\x1B[31mNameError\x1B[39m                                 Traceback (most recent call last)',
+    '\x1B[36mCell\x1B[39m\x1B[36m \x1B[39m\x1B[32mIn[1]\x1B[39m\x1B[32m, line 1\x1B[39m\n' +
+      '\x1B[32m----> \x1B[39m\x1B[32m1\x1B[39m \x1B[43mx\x1B[49m[\x1B[32m1\x1B[39m::\x1B[32m2\x1B[39m] \x1B[38;5;66;03m# 2 is the step value\x1B[39;00m\n',
+    "\x1B[31mNameError\x1B[39m: name 'x' is not defined"
+  ]
+}
+05:24:17.051 [info] Disposing kernel .jvsc74a57bd0d974eba3eabec6a4577f74b81fff497a253f6a2811e24b8a06db86088899b68f./home/~/.virtualenvs/virt1/python./home/~/.virtualenvs/virt1/python.-m#ipykernel_launcher for notebook /Interactive-1.interactive due to selection of another kernel or closing of the notebook
+05:24:17.051 [info] Dispose Kernel '/Interactive-1.interactive' associated with '~/wd/programming/python/~LearnPython/intro.qmd'
+05:24:17.129 [info] Disposing request as the cell (7) was deleted /Interactive-1.interactive
+05:24:17.133 [info] Disposing request as the cell (8) was deleted /Interactive-1.interactive
+05:24:17.135 [info] Disposing request as the cell (10) was deleted /Interactive-1.interactive
+05:24:17.138 [info] Disposing request as the cell (11) was deleted /Interactive-1.interactive
+05:24:17.138 [info] Disposing request as the cell (12) was deleted /Interactive-1.interactive
+05:24:17.142 [info] Disposing request as the cell (13) was deleted /Interactive-1.interactive
+05:24:17.142 [info] Dispose Kernel '/Interactive-1.interactive' associated with '~/wd/programming/python/~LearnPython/intro.qmd'

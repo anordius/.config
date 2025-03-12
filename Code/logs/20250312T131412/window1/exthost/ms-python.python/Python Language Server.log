@@ -1,0 +1,33 @@
+2025-03-12 13:15:09.608 [info] (Client) Pylance async client (2025.3.1) started with python extension (2025.2.0)
+2025-03-12 13:15:13.799 [info] [Info  - 1:15:13 PM] (12211) Server root directory: file:///home/arnold/.vscode/extensions/ms-python.vscode-pylance-2025.3.1/dist
+2025-03-12 13:15:13.805 [info] [Info  - 1:15:13 PM] (12211) Pylance language server 2025.3.1 (pyright version 1.1.396, commit 3e2236a7) starting
+2025-03-12 13:15:13.805 [info] [Info  - 1:15:13 PM] (12211) Starting service instance "wd"
+2025-03-12 13:15:14.913 [info] [Info  - 1:15:14 PM] (12211) Setting environmentName for service "wd": "3.13.2 (global)"
+2025-03-12 13:15:14.920 [info] [Info  - 1:15:14 PM] (12211) Setting pythonPath for service "wd": "/sbin/python"
+2025-03-12 13:15:14.952 [info] [Info  - 1:15:14 PM] (12211) No include entries specified; assuming /home/arnold/wd
+2025-03-12 13:15:14.958 [info] [Info  - 1:15:14 PM] (12211) Auto-excluding **/node_modules
+2025-03-12 13:15:14.960 [info] [Info  - 1:15:14 PM] (12211) Auto-excluding **/__pycache__
+2025-03-12 13:15:14.960 [info] [Info  - 1:15:14 PM] (12211) Auto-excluding **/.*
+2025-03-12 13:15:15.303 [info] [Info  - 1:15:15 PM] (12211) Assuming Python version 3.13.2.final.0
+2025-03-12 13:15:24.193 [info] [Info  - 1:15:24 PM] (12211) Found 149 source files
+2025-03-12 13:15:24.337 [info] [Info  - 1:15:24 PM] (12211) Starting service instance "wd"
+2025-03-12 13:15:24.422 [info] [Info  - 1:15:24 PM] (12211) Background analysis(1) root directory: file:///home/arnold/.vscode/extensions/ms-python.vscode-pylance-2025.3.1/dist
+2025-03-12 13:15:24.427 [info] [Info  - 1:15:24 PM] (12211) Background analysis(1) started
+2025-03-12 13:15:24.777 [info] [Info  - 1:15:24 PM] (12211) Setting environmentName for service "wd": "3.13.2 (global)"
+2025-03-12 13:15:24.783 [info] [Info  - 1:15:24 PM] (12211) Setting pythonPath for service "wd": "/home/arnold/.virtualenvs/virt1/bin/python"
+2025-03-12 13:15:24.783 [info] [Info  - 1:15:24 PM] (12211) No include entries specified; assuming /home/arnold/wd
+2025-03-12 13:15:24.785 [info] [Info  - 1:15:24 PM] (12211) Auto-excluding **/node_modules
+2025-03-12 13:15:24.786 [info] [Info  - 1:15:24 PM] (12211) Auto-excluding **/__pycache__
+2025-03-12 13:15:24.787 [info] [Info  - 1:15:24 PM] (12211) Auto-excluding **/.*
+2025-03-12 13:15:24.925 [info] [Info  - 1:15:24 PM] (12211) Assuming Python version 3.13.2.final.0
+2025-03-12 13:15:31.227 [info] [Info  - 1:15:31 PM] (12211) Found 149 source files
+2025-03-12 13:15:35.805 [info] [Info  - 1:15:35 PM] (12211) Background analysis(2) root directory: file:///home/arnold/.vscode/extensions/ms-python.vscode-pylance-2025.3.1/dist
+2025-03-12 13:15:35.810 [info] [Info  - 1:15:35 PM] (12211) Background analysis(2) started
+2025-03-12 13:15:37.021 [info] [Info  - 1:15:37 PM] (12211) [BG(2)] Long operation: SemanticTokens range 0:0 - 2:8 at file:///home/arnold/wd/programming/python/ArnoldLearnPython/practice_ground.ipynb.py#W3sZmlsZQ%3D%3D (5175ms)
+2025-03-12 13:15:37.442 [info] [Info  - 1:15:37 PM] (12211) Indexer background runner(3) root directory: file:///home/arnold/.vscode/extensions/ms-python.vscode-pylance-2025.3.1/dist (index)
+2025-03-12 13:15:37.450 [info] [Info  - 1:15:37 PM] (12211) Indexing(3) started
+2025-03-12 13:15:42.228 [info] [Info  - 1:15:42 PM] (12211) [BG(2)] Long operation: analyzing: file:///home/arnold/wd/programming/python/ArnoldLearnPython/practice_ground.ipynb.py#pylancePrefixCell (5170ms)
+2025-03-12 13:15:47.068 [info] [Info  - 1:15:47 PM] (12211) [IDX(3)] Long operation: scan packages file:///home/arnold/wd (8900ms)
+2025-03-12 13:15:47.071 [info] [Info  - 1:15:47 PM] (12211) scanned(3) 249 files over 1 exec env
+2025-03-12 13:15:49.264 [info] [Info  - 1:15:49 PM] (12211) indexed(3) 249 files over 1 exec env
+2025-03-12 13:15:50.342 [info] [Info  - 1:15:50 PM] (12211) Indexing finished(3).

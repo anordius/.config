@@ -1,0 +1,27 @@
+[MainWindow][Toolbar playToolBar]
+ToolButtonStyle=IconOnly
+
+[Phonon::AudioOutput]
+JuK_Volume=1
+
+[Player]
+CrossfadeTracks=false
+LoopPlaylist=false
+RandomPlay=Disabled
+Volume=100
+
+[PlaylistShared]
+ColumnOrder=
+ResizeColumnsManually=false
+VisibleColumns=0,1,2,3,4,5,6
+
+[Playlists]
+DirectoryList[$e]=$HOME/Music
+ImportPlaylists=true
+showUpcoming=false
+
+[Settings]
+DockInSystemTray=true
+DockOnClose=true
+StartDocked=true
+TrackPopup=false

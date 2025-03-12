@@ -1,0 +1,47 @@
+2025-03-11 20:17:42.949 [info] (Client) Pylance async client (2025.3.1) started with python extension (2025.2.0)
+2025-03-11 20:17:48.599 [info] [Info  - 8:17:48 PM] (20407) Server root directory: file:///home/arnold/.vscode/extensions/ms-python.vscode-pylance-2025.3.1/dist
+2025-03-11 20:17:48.617 [info] [Info  - 8:17:48 PM] (20407) Pylance language server 2025.3.1 (pyright version 1.1.396, commit 3e2236a7) starting
+2025-03-11 20:17:48.621 [info] [Info  - 8:17:48 PM] (20407) Starting service instance "wd"
+2025-03-11 20:17:49.524 [info] [Info  - 8:17:49 PM] (20407) Setting environmentName for service "wd": "3.13.2 (global)"
+2025-03-11 20:17:49.527 [info] [Info  - 8:17:49 PM] (20407) Setting pythonPath for service "wd": "/sbin/python"
+2025-03-11 20:17:49.529 [info] [Info  - 8:17:49 PM] (20407) No include entries specified; assuming /home/arnold/wd
+2025-03-11 20:17:49.539 [info] [Info  - 8:17:49 PM] (20407) Auto-excluding **/node_modules
+2025-03-11 20:17:49.541 [info] [Info  - 8:17:49 PM] (20407) Auto-excluding **/__pycache__
+2025-03-11 20:17:49.541 [info] [Info  - 8:17:49 PM] (20407) Auto-excluding **/.*
+2025-03-11 20:17:49.664 [info] [Info  - 8:17:49 PM] (20407) Assuming Python version 3.13.2.final.0
+2025-03-11 20:18:00.729 [info] [Error - 8:18:00 PM] (20407) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-03-11 20:18:07.826 [info] [Info  - 8:18:07 PM] (20407) Found 149 source files
+2025-03-11 20:18:08.028 [info] [Info  - 8:18:08 PM] (20407) Starting service instance "wd"
+2025-03-11 20:18:08.156 [info] [Info  - 8:18:08 PM] (20407) Background analysis(1) root directory: file:///home/arnold/.vscode/extensions/ms-python.vscode-pylance-2025.3.1/dist
+2025-03-11 20:18:08.194 [info] [Info  - 8:18:08 PM] (20407) Background analysis(1) started
+2025-03-11 20:18:09.236 [info] [Info  - 8:18:09 PM] (20407) Setting environmentName for service "wd": "3.13.2 (global)"
+2025-03-11 20:18:09.237 [info] [Info  - 8:18:09 PM] (20407) Setting pythonPath for service "wd": "/home/arnold/.virtualenvs/virt1/bin/python"
+2025-03-11 20:18:09.237 [info] [Info  - 8:18:09 PM] (20407) No include entries specified; assuming /home/arnold/wd
+2025-03-11 20:18:09.238 [info] [Info  - 8:18:09 PM] (20407) Auto-excluding **/node_modules
+2025-03-11 20:18:09.238 [info] [Info  - 8:18:09 PM] (20407) Auto-excluding **/__pycache__
+2025-03-11 20:18:09.238 [info] [Info  - 8:18:09 PM] (20407) Auto-excluding **/.*
+2025-03-11 20:18:09.453 [info] [Info  - 8:18:09 PM] (20407) Assuming Python version 3.13.2.final.0
+2025-03-11 20:18:20.229 [info] [Error - 8:18:20 PM] (20407) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-03-11 20:18:21.272 [info] [Info  - 8:18:21 PM] (20407) Found 149 source files
+2025-03-11 20:18:25.973 [info] [Info  - 8:18:25 PM] (20407) Background analysis(2) root directory: file:///home/arnold/.vscode/extensions/ms-python.vscode-pylance-2025.3.1/dist
+2025-03-11 20:18:25.977 [info] [Info  - 8:18:25 PM] (20407) Background analysis(2) started
+2025-03-11 20:18:29.252 [info] [Info  - 8:18:29 PM] (20407) Indexer background runner(3) root directory: file:///home/arnold/.vscode/extensions/ms-python.vscode-pylance-2025.3.1/dist (index)
+2025-03-11 20:18:29.252 [info] [Info  - 8:18:29 PM] (20407) Indexing(3) started
+2025-03-11 20:18:29.364 [info] [Info  - 8:18:29 PM] (20407) [BG(2)] Long operation: SemanticTokens full at file:///home/arnold/wd/programming/python/ArnoldLearnPython/practice_ground.ipynb.py#Y123sZmlsZQ%3D%3D (7311ms)
+2025-03-11 20:18:34.792 [info] [Info  - 8:18:34 PM] (20407) [BG(2)] Long operation: analyzing: file:///home/arnold/wd/programming/python/ArnoldLearnPython/practice_ground.ipynb.py#pylancePrefixCell (5369ms)
+2025-03-11 20:18:42.538 [info] [Info  - 8:18:42 PM] (20407) [IDX(3)] Long operation: scan packages file:///home/arnold/wd (12316ms)
+2025-03-11 20:18:42.538 [info] [Info  - 8:18:42 PM] (20407) scanned(3) 249 files over 1 exec env
+2025-03-11 20:18:44.555 [info] [Info  - 8:18:44 PM] (20407) indexed(3) 249 files over 1 exec env
+2025-03-11 20:18:45.061 [info] [Info  - 8:18:45 PM] (20407) Indexing finished(3).

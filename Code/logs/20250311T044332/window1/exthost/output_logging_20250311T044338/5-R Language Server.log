@@ -1,0 +1,10 @@
+R Language Server (68064) started
+R library paths: /home/arnold/R/x86_64-pc-linux-gnu-library/4.4
+/usr/lib/R/library
+
+R Language Server (68064) exited from signal SIGKILL
+[Error - 4:44:40 AM] Client R Language Server: connection to server is erroring.
+This socket has been ended by the other party
+[Error - 4:44:40 AM] Stopping server failed
+  Message: This socket has been ended by the other party
+  Code: -32099 

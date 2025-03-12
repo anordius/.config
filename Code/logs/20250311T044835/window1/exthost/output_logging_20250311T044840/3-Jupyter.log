@@ -1,0 +1,23 @@
+Visual Studio Code (1.98.0, undefined, desktop)
+Jupyter Extension Version: 2025.2.0.
+Python Extension Version: 2025.2.0.
+Pylance Extension Version: 2025.3.1.
+Platform: linux (x64).
+Home = /home/arnold
+Temp Storage folder ~/.config/Code/User/globalStorage/ms-toolsai.jupyter/version-2025.2.0
+Workspace folder ~/wd
+04:49:08.881 [info] Starting Kernel (Python Path: ~/.virtualenvs/virt1/bin/python, VirtualEnvWrapper, 3.13.2) for '~/wd/programming/python/~LearnPython/practice_ground.ipynb' (disableUI=true)
+04:49:10.999 [info] Process Execution: ~/.virtualenvs/virt1/bin/python -m pip list
+04:49:11.067 [info] Process Execution: ~/.virtualenvs/virt1/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+04:49:11.124 [info] Process Execution: ~/.virtualenvs/virt1/bin/python -m ipykernel_launcher --f=/run/user/1000/jupyter/runtime/kernel-v3579387a56f34f9ac223bb3d288417decf29cc5e3.json
+    > cwd: ~/wd/programming/python/~LearnPython
+04:49:14.923 [info] Kernel successfully started
+04:49:14.955 [info] Process Execution: ~/.virtualenvs/virt1/bin/python /home/~/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-x64/pythonFiles/printJupyterDataDir.py
+04:50:38.677 [info] Dispose Kernel '~/wd/programming/python/~LearnPython/practice_ground.ipynb' associated with '~/wd/programming/python/~LearnPython/practice_ground.ipynb'
+04:51:22.801 [info] Starting Kernel (Python Path: ~/.virtualenvs/virt1/bin/python, VirtualEnvWrapper, 3.13.2) for '~/wd/programming/python/~LearnPython/practice_ground.ipynb' (disableUI=true)
+04:51:22.873 [info] Process Execution: ~/.virtualenvs/virt1/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+04:51:23.066 [info] Process Execution: ~/.virtualenvs/virt1/bin/python -m ipykernel_launcher --f=/run/user/1000/jupyter/runtime/kernel-v3dc2696f8b66eca9716d6aa7d4a1b456a454680d4.json
+    > cwd: ~/wd/programming/python/~LearnPython
+04:51:27.178 [info] Kernel successfully started
+04:52:12.542 [info] Dispose Kernel '~/wd/programming/python/~LearnPython/practice_ground.ipynb' associated with '~/wd/programming/python/~LearnPython/practice_ground.ipynb'
+04:52:12.543 [info] Dispose Kernel '~/wd/programming/python/~LearnPython/practice_ground.ipynb' associated with '~/wd/programming/python/~LearnPython/practice_ground.ipynb'

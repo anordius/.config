@@ -1,0 +1,44 @@
+2025-03-12 13:14:17.140 [warning] Creation of workbench contribution 'workbench.chat.setup' took 25ms.
+2025-03-12 13:14:19.118 [info] Started local extension host with pid 11796.
+2025-03-12 13:14:32.098 [info] Extension host (LocalProcess pid: 11796) is unresponsive.
+2025-03-12 13:14:32.870 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-03-12 13:14:32.918 [info] Extension host (LocalProcess pid: 11796) is responsive.
+2025-03-12 13:14:36.120 [warning] Creation of workbench contribution 'workbench.contrib.configurationMigration' took 182ms.
+2025-03-12 13:14:46.290 [info] Extension host (LocalProcess pid: 11796) is unresponsive.
+2025-03-12 13:14:50.212 [info] Extension host (LocalProcess pid: 11796) is responsive.
+2025-03-12 13:14:57.044 [info] [perf] Render performance baseline is -1ms
+2025-03-12 13:14:57.677 [info] Extension host (LocalProcess pid: 11796) is unresponsive.
+2025-03-12 13:14:58.355 [info] Extension host (LocalProcess pid: 11796) is responsive.
+2025-03-12 13:15:05.486 [info] Extension host (LocalProcess pid: 11796) is unresponsive.
+2025-03-12 13:15:06.821 [info] Extension host (LocalProcess pid: 11796) is responsive.
+2025-03-12 13:18:42.285 [error] Failed: Failed to fetch
+    at uqe.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1834:55392)
+    at async uqe.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1834:52126)
+    at async o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1834:51091)
+    at async uqe.query (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1834:51377)
+    at async Cnt.queryGallery (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2496:14349)
+    at async Promise.all (index 0)
+    at async mBs.Oc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2288:22019)
+    at async mBs.yc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2288:13955)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2288:12277
+2025-03-12 13:18:43.759 [error] Failed: Failed to fetch
+    at uqe.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1834:55392)
+    at async uqe.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1834:52126)
+    at async o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1834:51091)
+    at async uqe.query (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1834:51377)
+    at async Cnt.queryGallery (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2496:14349)
+    at async Promise.all (index 0)
+    at async mBs.Oc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2288:22019)
+    at async mBs.yc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2288:13955)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2288:12277
+2025-03-12 13:20:08.783 [error] Failed: Failed to fetch
+    at uqe.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1834:55392)
+    at async uqe.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1834:52126)
+    at async uqe.z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1834:47845)
+    at async uqe.getExtensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1834:47011)
+    at async Cnt.getExtensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2496:14749)
+    at async bBs.Tc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2288:24778)
+    at async bBs.bd (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2288:27422)
+    at async bBs.yc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2288:13955)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2288:12277
+2025-03-12 13:21:55.743 [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.workingCopyHistory

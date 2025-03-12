@@ -1,0 +1,20 @@
+2025-03-11 04:48:37.828 [info] Started local extension host with pid 69312.
+2025-03-11 04:48:42.721 [error] [chat setup] request: error Offline: Offline
+2025-03-11 04:48:44.842 [error] Error while getting the latest version for the extension github.codespaces. Offline
+2025-03-11 04:48:44.844 [error] Error while getting the latest version for the extension james-yu.latex-workshop. Offline
+2025-03-11 04:48:44.852 [error] Error while getting the latest version for the extension ms-python.debugpy. Offline
+2025-03-11 04:48:44.858 [error] Error while getting the latest version for the extension ms-python.python. Offline
+2025-03-11 04:48:44.867 [error] Error while getting the latest version for the extension ms-python.vscode-pylance. Offline
+2025-03-11 04:48:44.874 [error] Error while getting the latest version for the extension ms-toolsai.jupyter. Offline
+2025-03-11 04:48:44.876 [error] Error while getting the latest version for the extension ms-toolsai.jupyter-keymap. Offline
+2025-03-11 04:48:44.891 [error] Error while getting the latest version for the extension ms-toolsai.vscode-jupyter-cell-tags. Offline
+2025-03-11 04:48:44.903 [error] Error while getting the latest version for the extension ms-toolsai.jupyter-renderers. Offline
+2025-03-11 04:48:44.920 [error] Error while getting the latest version for the extension ms-toolsai.vscode-jupyter-slideshow. Offline
+2025-03-11 04:48:44.933 [error] Error while getting the latest version for the extension quarto.quarto. Offline
+2025-03-11 04:48:44.934 [error] Error while getting the latest version for the extension reditorsupport.r. Offline
+2025-03-11 04:48:46.150 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-03-11 04:48:46.654 [info] Extension host (LocalProcess pid: 69312) is unresponsive.
+2025-03-11 04:48:50.099 [info] Extension host (LocalProcess pid: 69312) is responsive.
+2025-03-11 04:48:53.072 [warning] Failed to fetch chat participant registry Offline
+2025-03-11 04:48:58.963 [info] [perf] Render performance baseline is -1ms
+2025-03-11 04:52:13.701 [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.closeStorage

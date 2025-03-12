@@ -1,0 +1,47 @@
+2025-03-11 04:45:53.719 [info] (Client) Pylance async client (2025.3.1) started with python extension (2025.2.0)
+2025-03-11 04:45:57.435 [info] [Info  - 4:45:57 AM] (69128) Server root directory: file:///home/arnold/.vscode/extensions/ms-python.vscode-pylance-2025.3.1/dist
+2025-03-11 04:45:57.435 [info] [Info  - 4:45:57 AM] (69128) Pylance language server 2025.3.1 (pyright version 1.1.396, commit 3e2236a7) starting
+2025-03-11 04:45:57.435 [info] [Info  - 4:45:57 AM] (69128) Starting service instance "wd"
+2025-03-11 04:45:57.959 [info] [Info  - 4:45:57 AM] (69128) Setting environmentName for service "wd": "3.13.2 (global)"
+2025-03-11 04:45:57.960 [info] [Info  - 4:45:57 AM] (69128) Setting pythonPath for service "wd": "/usr/sbin/python"
+2025-03-11 04:45:57.960 [info] [Info  - 4:45:57 AM] (69128) No include entries specified; assuming /home/arnold/wd
+2025-03-11 04:45:57.961 [info] [Info  - 4:45:57 AM] (69128) Auto-excluding **/node_modules
+2025-03-11 04:45:57.962 [info] [Info  - 4:45:57 AM] (69128) Auto-excluding **/__pycache__
+2025-03-11 04:45:57.962 [info] [Info  - 4:45:57 AM] (69128) Auto-excluding **/.*
+2025-03-11 04:45:58.059 [info] [Info  - 4:45:58 AM] (69128) Assuming Python version 3.13.2.final.0
+2025-03-11 04:46:03.728 [info] [Info  - 4:46:03 AM] (69128) Found 149 source files
+2025-03-11 04:46:03.852 [info] [Info  - 4:46:03 AM] (69128) Starting service instance "wd"
+2025-03-11 04:46:03.925 [info] [Info  - 4:46:03 AM] (69128) Background analysis(1) root directory: file:///home/arnold/.vscode/extensions/ms-python.vscode-pylance-2025.3.1/dist
+2025-03-11 04:46:03.926 [info] [Info  - 4:46:03 AM] (69128) Background analysis(1) started
+2025-03-11 04:46:04.272 [info] [Info  - 4:46:04 AM] (69128) Setting environmentName for service "wd": "3.13.2 (global)"
+2025-03-11 04:46:04.276 [info] [Info  - 4:46:04 AM] (69128) Setting pythonPath for service "wd": "/home/arnold/.virtualenvs/virt1/bin/python"
+2025-03-11 04:46:04.276 [info] [Info  - 4:46:04 AM] (69128) No include entries specified; assuming /home/arnold/wd
+2025-03-11 04:46:04.276 [info] [Info  - 4:46:04 AM] (69128) Auto-excluding **/node_modules
+2025-03-11 04:46:04.276 [info] [Info  - 4:46:04 AM] (69128) Auto-excluding **/__pycache__
+2025-03-11 04:46:04.277 [info] [Info  - 4:46:04 AM] (69128) Auto-excluding **/.*
+2025-03-11 04:46:04.387 [info] [Info  - 4:46:04 AM] (69128) Assuming Python version 3.13.2.final.0
+2025-03-11 04:46:09.647 [info] [Info  - 4:46:09 AM] (69128) Found 149 source files
+2025-03-11 04:46:12.021 [info] [Info  - 4:46:12 AM] (69128) Background analysis(2) root directory: file:///home/arnold/.vscode/extensions/ms-python.vscode-pylance-2025.3.1/dist
+2025-03-11 04:46:12.023 [info] [Info  - 4:46:12 AM] (69128) Background analysis(2) started
+2025-03-11 04:46:13.774 [info] [Info  - 4:46:13 AM] (69128) Indexer background runner(3) root directory: file:///home/arnold/.vscode/extensions/ms-python.vscode-pylance-2025.3.1/dist (index)
+2025-03-11 04:46:13.775 [info] [Info  - 4:46:13 AM] (69128) Indexing(3) started
+2025-03-11 04:46:14.826 [info] [Info  - 4:46:14 AM] (69128) [BG(2)] Long operation: SemanticTokens full at file:///home/arnold/wd/programming/python/ArnoldLearnPython/practice_ground.ipynb.py#Y111sZmlsZQ%3D%3D (4845ms)
+2025-03-11 04:46:19.106 [info] [Info  - 4:46:19 AM] (69128) [IDX(3)] Long operation: scan packages file:///home/arnold/wd (4960ms)
+2025-03-11 04:46:19.107 [info] [Info  - 4:46:19 AM] (69128) scanned(3) 249 files over 1 exec env
+2025-03-11 04:46:20.333 [info] [Info  - 4:46:20 AM] (69128) indexed(3) 249 files over 1 exec env
+2025-03-11 04:46:20.694 [info] [Info  - 4:46:20 AM] (69128) Indexing finished(3).
+2025-03-11 04:48:25.480 [info] [Info  - 4:48:25 AM] (69128) Setting environmentName for service "wd": "3.13.2 (global)"
+2025-03-11 04:48:25.486 [info] [Info  - 4:48:25 AM] (69128) Setting pythonPath for service "wd": "/usr/sbin/python"
+2025-03-11 04:48:25.486 [info] [Info  - 4:48:25 AM] (69128) No include entries specified; assuming /home/arnold/wd
+2025-03-11 04:48:25.486 [info] [Info  - 4:48:25 AM] (69128) Auto-excluding **/node_modules
+2025-03-11 04:48:25.487 [info] [Info  - 4:48:25 AM] (69128) Auto-excluding **/__pycache__
+2025-03-11 04:48:25.487 [info] [Info  - 4:48:25 AM] (69128) Auto-excluding **/.*
+2025-03-11 04:48:25.635 [info] [Info  - 4:48:25 AM] (69128) Assuming Python version 3.13.2.final.0
+2025-03-11 04:48:29.342 [info] [Info  - 4:48:29 AM] (69128) Found 149 source files
+2025-03-11 04:48:29.391 [info] [Info  - 4:48:29 AM] (69128) Setting environmentName for service "wd": "3.13.2 (global)"
+2025-03-11 04:48:29.391 [info] [Info  - 4:48:29 AM] (69128) Setting pythonPath for service "wd": "/home/arnold/.virtualenvs/virt1/bin/python"
+2025-03-11 04:48:29.393 [info] [Info  - 4:48:29 AM] (69128) No include entries specified; assuming /home/arnold/wd
+2025-03-11 04:48:29.394 [info] [Info  - 4:48:29 AM] (69128) Auto-excluding **/node_modules
+2025-03-11 04:48:29.394 [info] [Info  - 4:48:29 AM] (69128) Auto-excluding **/__pycache__
+2025-03-11 04:48:29.396 [info] [Info  - 4:48:29 AM] (69128) Auto-excluding **/.*
+2025-03-11 04:48:29.613 [info] [Info  - 4:48:29 AM] (69128) Assuming Python version 3.13.2.final.0

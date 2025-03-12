@@ -1,0 +1,15 @@
+Visual Studio Code (1.98.0, undefined, desktop)
+Jupyter Extension Version: 2025.2.0.
+Python Extension Version: 2025.2.0.
+Pylance Extension Version: 2025.3.1.
+Platform: linux (x64).
+Home = /home/arnold
+Temp Storage folder ~/.config/Code/User/globalStorage/ms-toolsai.jupyter/version-2025.2.0
+Workspace folder ~/wd
+05:50:54.487 [info] Starting Kernel (Python Path: ~/.virtualenvs/virt1/bin/python, VirtualEnvWrapper, 3.13.2) for '~/wd/programming/python/~LearnPython/practice_ground.ipynb' (disableUI=true)
+05:50:57.916 [info] Process Execution: ~/.virtualenvs/virt1/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+05:50:57.975 [info] Process Execution: ~/.virtualenvs/virt1/bin/python -m ipykernel_launcher --f=/run/user/1000/jupyter/runtime/kernel-v3a640da9d4214d753714a6b884fd5c2b271753cf7.json
+    > cwd: ~/wd/programming/python/~LearnPython
+05:50:58.295 [info] Process Execution: ~/.virtualenvs/virt1/bin/python -m pip list
+05:51:03.806 [info] Kernel successfully started
+05:51:03.894 [info] Process Execution: ~/.virtualenvs/virt1/bin/python /home/~/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-x64/pythonFiles/printJupyterDataDir.py

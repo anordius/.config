@@ -1,0 +1,10 @@
+2025-03-12 13:22:11.487 [info] Started local extension host with pid 12889.
+2025-03-12 13:22:31.130 [info] Extension host (LocalProcess pid: 12889) is unresponsive.
+2025-03-12 13:22:33.798 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-03-12 13:22:33.914 [info] Extension host (LocalProcess pid: 12889) is responsive.
+2025-03-12 13:22:41.718 [info] Extension host (LocalProcess pid: 12889) is unresponsive.
+2025-03-12 13:22:42.351 [info] Extension host (LocalProcess pid: 12889) is responsive.
+2025-03-12 13:22:42.561 [warning] Creation of workbench contribution 'workbench.contrib.configurationMigration' took 167ms.
+2025-03-12 13:22:46.810 [warning] Creation of workbench contribution 'workbench.contrib.dynamicWindowConfiguration' took 435ms.
+2025-03-12 13:22:49.264 [info] [perf] Render performance baseline is -1ms
+2025-03-12 13:22:55.161 [error] [chat setup] request: error TypeError: Failed to fetch

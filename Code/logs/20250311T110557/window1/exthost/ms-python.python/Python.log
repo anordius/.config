@@ -1,0 +1,17 @@
+2025-03-11 11:06:27.977 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-03-11 11:06:27.977 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-03-11 11:06:27.977 [info] Experiment 'pythonTestAdapter' is active
+2025-03-11 11:06:27.977 [info] Native locator: Refresh started
+2025-03-11 11:06:27.977 [info] Native locator: Refresh started
+2025-03-11 11:06:28.353 [info] > pyenv which python
+2025-03-11 11:06:28.353 [info] cwd: .
+2025-03-11 11:06:30.018 [info] > conda info --json
+2025-03-11 11:06:44.768 [info] Python interpreter path: /sbin/python
+2025-03-11 11:06:45.121 [info] > . ~/.virtualenvs/virt1/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariables.py
+2025-03-11 11:06:45.121 [info] shell: bash
+2025-03-11 11:06:45.146 [info] > . ~/.virtualenvs/virt1/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariables.py
+2025-03-11 11:06:45.146 [info] shell: bash
+2025-03-11 11:06:45.851 [info] Native locator: Refresh finished in 32338 ms
+2025-03-11 11:06:49.043 [info] Starting Pylance language server.
+2025-03-11 11:07:17.847 [info] Native locator: Refresh started
+2025-03-11 11:07:20.586 [info] Native locator: Refresh finished in 2737 ms

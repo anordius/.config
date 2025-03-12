@@ -1,0 +1,21 @@
+2025-03-11 04:40:31.334 [info] Started local extension host with pid 66829.
+2025-03-11 04:40:35.111 [error] [chat setup] request: error Offline: Offline
+2025-03-11 04:40:38.460 [error] Error while getting the latest version for the extension github.codespaces. Offline
+2025-03-11 04:40:38.484 [error] Error while getting the latest version for the extension ms-python.python. Offline
+2025-03-11 04:40:38.490 [error] Error while getting the latest version for the extension james-yu.latex-workshop. Offline
+2025-03-11 04:40:38.496 [error] Error while getting the latest version for the extension ms-python.debugpy. Offline
+2025-03-11 04:40:38.497 [error] Error while getting the latest version for the extension ms-toolsai.jupyter-renderers. Offline
+2025-03-11 04:40:38.504 [error] Error while getting the latest version for the extension quarto.quarto. Offline
+2025-03-11 04:40:38.508 [error] Error while getting the latest version for the extension ms-toolsai.jupyter. Offline
+2025-03-11 04:40:38.514 [error] Error while getting the latest version for the extension ms-python.vscode-pylance. Offline
+2025-03-11 04:40:38.522 [error] Error while getting the latest version for the extension ms-toolsai.jupyter-keymap. Offline
+2025-03-11 04:40:38.526 [error] Error while getting the latest version for the extension ms-toolsai.vscode-jupyter-cell-tags. Offline
+2025-03-11 04:40:38.533 [error] Error while getting the latest version for the extension ms-toolsai.vscode-jupyter-slideshow. Offline
+2025-03-11 04:40:38.539 [error] Error while getting the latest version for the extension reditorsupport.r. Offline
+2025-03-11 04:40:39.856 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-03-11 04:40:40.842 [info] Extension host (LocalProcess pid: 66829) is unresponsive.
+2025-03-11 04:40:43.121 [info] Extension host (LocalProcess pid: 66829) is responsive.
+2025-03-11 04:40:54.822 [warning] Failed to fetch chat participant registry Offline
+2025-03-11 04:40:56.321 [info] Extension host (LocalProcess pid: 66829) is unresponsive.
+2025-03-11 04:40:56.347 [info] Extension host (LocalProcess pid: 66829) is responsive.
+2025-03-11 04:40:57.841 [info] [perf] Render performance baseline is -1ms

@@ -1,4 +1,0 @@
-2025-03-09 18:34:18.058 [info] Started local extension host with pid 9658.
-2025-03-09 18:34:24.413 [info] Settings Sync: Account status changed from uninitialized to unavailable
-2025-03-09 18:34:25.542 [info] [perf] Render performance baseline is 339ms
-2025-03-09 19:06:43.061 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

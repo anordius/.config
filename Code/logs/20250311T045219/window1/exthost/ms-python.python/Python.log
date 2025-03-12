@@ -1,0 +1,77 @@
+2025-03-11 04:52:40.712 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-03-11 04:52:40.712 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-03-11 04:52:40.712 [info] Experiment 'pythonTestAdapter' is active
+2025-03-11 04:52:40.712 [info] Native locator: Refresh started
+2025-03-11 04:52:40.712 [info] Native locator: Refresh finished in 773 ms
+2025-03-11 04:52:40.712 [info] Native locator: Refresh started
+2025-03-11 04:52:44.925 [info] > pyenv which python
+2025-03-11 04:52:44.925 [info] cwd: .
+2025-03-11 04:52:49.079 [info] > conda info --json
+2025-03-11 04:52:50.883 [info] Native locator: Refresh started
+2025-03-11 04:52:57.372 [info] Python interpreter path: /usr/sbin/python
+2025-03-11 04:52:57.574 [info] > . ~/.virtualenvs/virt1/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariables.py
+2025-03-11 04:52:57.574 [info] shell: bash
+2025-03-11 04:52:57.615 [info] > . ~/.virtualenvs/virt1/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2025.2.0-linux-x64/python_files/printEnvVariables.py
+2025-03-11 04:52:57.615 [info] shell: bash
+2025-03-11 04:52:57.674 [info] Native locator: Refresh finished in 19551 ms
+2025-03-11 04:53:02.459 [info] Starting Pylance language server.
+2025-03-11 04:53:22.338 [info] Python interpreter path: /sbin/python
+2025-03-11 04:59:29.719 [info] Active interpreter [/Interactive-1.interactive]:  /home/arnold/.virtualenvs/virt1/bin/python
+2025-03-11 05:16:50.106 [info] Send text to terminal: [200~pacman::p_load(tidyverse)[201~
+2025-03-11 05:16:57.634 [info] Send text to terminal: [200~pacman::p_load(tidyverse)[201~
+2025-03-11 05:17:49.267 [info] Send text to terminal: [200~library(ggplot)
+#pacman::p_load(tidyverse)
+plot(mpg)[201~
+2025-03-11 05:18:10.801 [info] Send text to terminal: [200~library(ggplot)
+#pacman::p_load(tidyverse)
+plot(mpg)[201~
+2025-03-11 05:18:20.847 [info] Send text to terminal: [200~library(ggplot2)
+#pacman::p_load(tidyverse)
+plot(mpg)[201~
+2025-03-11 05:19:13.650 [info] Send text to terminal: [200~library(ggplot2)
+#pacman::p_load(tidyverse)
+plot(mpg$displ)[201~
+2025-03-11 05:20:03.310 [info] Send text to terminal: [200~reticulate::repl_python(quiet = TRUE, input = r"--(name = 'Brad'
+age = 37
+
+print(f'{name}\'s age: {age}'))--")[201~
+2025-03-11 05:20:05.832 [info] Send text to terminal: [200~reticulate::repl_python(quiet = TRUE, input = r"--(name = 'Brad'
+age = 37
+
+print(f'{name}\'s age: {age}'))--")[201~
+2025-03-11 05:20:12.843 [info] Send text to terminal: [200~reticulate::repl_python(quiet = TRUE, input = r"--(name = 'Brad'
+age = 37
+
+print(f'{name}\'s age: {age}'))--")[201~
+2025-03-11 05:20:14.202 [info] Send text to terminal: [200~reticulate::repl_python(quiet = TRUE, input = r"--(name = 'Brad'
+age = 37
+
+print(f'{name}\'s age: {age}'))--")[201~
+2025-03-11 05:20:23.915 [info] Send text to terminal: [200~reticulate::repl_python(quiet = TRUE, input = r"--(name = 'Brad'
+age = 35
+
+print(f'{name}\'s age: {age}'))--")[201~
+2025-03-11 05:20:25.734 [info] Send text to terminal: [200~reticulate::repl_python(quiet = TRUE, input = r"--(name = 'Brad'
+age = 35
+
+print(f'{name}\'s age: {age}'))--")[201~
+2025-03-11 05:20:26.273 [info] Send text to terminal: [200~reticulate::repl_python(quiet = TRUE, input = r"--(name = 'Brad'
+age = 35
+
+print(f'{name}\'s age: {age}'))--")[201~
+2025-03-11 05:20:26.541 [info] Send text to terminal: [200~reticulate::repl_python(quiet = TRUE, input = r"--(name = 'Brad'
+age = 35
+
+print(f'{name}\'s age: {age}'))--")[201~
+2025-03-11 05:20:37.491 [info] Send text to terminal: [200~reticulate::repl_python(quiet = TRUE, input = r"--(name = 'Brad'
+age = 35
+
+print(f'{name}\'s age: {age}'))--")[201~
+2025-03-11 05:20:42.106 [info] Send text to terminal: [200~reticulate::repl_python(quiet = TRUE, input = r"--(name = 'Brad'
+age = 35
+
+print(f'{name}\'s age: {age}'))--")[201~
+2025-03-11 05:21:03.470 [info] Send text to terminal: [200~reticulate::repl_python(quiet = TRUE, input = r"--(name = 'Brad'
+age = 35
+
+print(f'{name}\'s age: {age}'))--")[201~

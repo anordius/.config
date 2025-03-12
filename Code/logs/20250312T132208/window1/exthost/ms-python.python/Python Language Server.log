@@ -1,0 +1,41 @@
+2025-03-12 13:22:58.510 [info] (Client) Pylance async client (2025.3.1) started with python extension (2025.2.0)
+2025-03-12 13:23:06.146 [info] [Info  - 1:23:06 PM] (13252) Server root directory: file:///home/arnold/.vscode/extensions/ms-python.vscode-pylance-2025.3.1/dist
+2025-03-12 13:23:06.147 [info] [Info  - 1:23:06 PM] (13252) Pylance language server 2025.3.1 (pyright version 1.1.396, commit 3e2236a7) starting
+2025-03-12 13:23:06.148 [info] [Info  - 1:23:06 PM] (13252) Starting service instance "wd"
+2025-03-12 13:23:06.585 [info] [Info  - 1:23:06 PM] (13252) Setting environmentName for service "wd": "3.13.2 (global)"
+2025-03-12 13:23:06.587 [info] [Info  - 1:23:06 PM] (13252) Setting pythonPath for service "wd": "/sbin/python"
+2025-03-12 13:23:06.593 [info] [Info  - 1:23:06 PM] (13252) No include entries specified; assuming /home/arnold/wd
+2025-03-12 13:23:06.593 [info] [Info  - 1:23:06 PM] (13252) Auto-excluding **/node_modules
+2025-03-12 13:23:06.594 [info] [Info  - 1:23:06 PM] (13252) Auto-excluding **/__pycache__
+2025-03-12 13:23:06.595 [info] [Info  - 1:23:06 PM] (13252) Auto-excluding **/.*
+2025-03-12 13:23:06.720 [info] [Info  - 1:23:06 PM] (13252) Assuming Python version 3.13.2.final.0
+2025-03-12 13:23:17.861 [info] [Error - 1:23:17 PM] (13252) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2025-03-12 13:23:21.579 [info] [Info  - 1:23:21 PM] (13252) Found 149 source files
+2025-03-12 13:23:21.672 [info] [Info  - 1:23:21 PM] (13252) Starting service instance "wd"
+2025-03-12 13:23:21.696 [info] [Info  - 1:23:21 PM] (13252) Background analysis(1) root directory: file:///home/arnold/.vscode/extensions/ms-python.vscode-pylance-2025.3.1/dist
+2025-03-12 13:23:21.699 [info] [Info  - 1:23:21 PM] (13252) Background analysis(1) started
+2025-03-12 13:23:21.842 [info] [Info  - 1:23:21 PM] (13252) Setting environmentName for service "wd": "3.13.2 (global)"
+2025-03-12 13:23:21.848 [info] [Info  - 1:23:21 PM] (13252) Setting pythonPath for service "wd": "/home/arnold/.virtualenvs/virt1/bin/python"
+2025-03-12 13:23:21.849 [info] [Info  - 1:23:21 PM] (13252) No include entries specified; assuming /home/arnold/wd
+2025-03-12 13:23:21.851 [info] [Info  - 1:23:21 PM] (13252) Auto-excluding **/node_modules
+2025-03-12 13:23:21.853 [info] [Info  - 1:23:21 PM] (13252) Auto-excluding **/__pycache__
+2025-03-12 13:23:21.857 [info] [Info  - 1:23:21 PM] (13252) Auto-excluding **/.*
+2025-03-12 13:23:22.155 [info] [Info  - 1:23:22 PM] (13252) Assuming Python version 3.13.2.final.0
+2025-03-12 13:23:29.758 [info] [Info  - 1:23:29 PM] (13252) Found 149 source files
+2025-03-12 13:23:29.932 [info] [Info  - 1:23:29 PM] (13252) Background analysis(2) root directory: file:///home/arnold/.vscode/extensions/ms-python.vscode-pylance-2025.3.1/dist
+2025-03-12 13:23:29.933 [info] [Info  - 1:23:29 PM] (13252) Background analysis(2) started
+2025-03-12 13:23:34.656 [info] [Info  - 1:23:34 PM] (13252) Indexer background runner(3) root directory: file:///home/arnold/.vscode/extensions/ms-python.vscode-pylance-2025.3.1/dist (index)
+2025-03-12 13:23:34.660 [info] [Info  - 1:23:34 PM] (13252) Indexing(3) started
+2025-03-12 13:23:35.861 [info] [Info  - 1:23:35 PM] (13252) [BG(2)] Long operation: analyzing: file:///home/arnold/wd/programming/python/ArnoldLearnPython/practice_ground.ipynb.py#Y123sZmlsZQ%3D%3D (2083ms)
+2025-03-12 13:23:38.981 [info] [Info  - 1:23:38 PM] (13252) [BG(2)] Long operation: analyzing: file:///home/arnold/wd/programming/python/ArnoldLearnPython/practice_ground.ipynb.py#pylancePrefixCell (8820ms)
+2025-03-12 13:23:40.756 [info] [Info  - 1:23:40 PM] (13252) [IDX(3)] Long operation: scan packages file:///home/arnold/wd (5574ms)
+2025-03-12 13:23:40.757 [info] [Info  - 1:23:40 PM] (13252) scanned(3) 249 files over 1 exec env
+2025-03-12 13:23:42.098 [info] [Info  - 1:23:42 PM] (13252) indexed(3) 249 files over 1 exec env
+2025-03-12 13:23:42.566 [info] [Info  - 1:23:42 PM] (13252) Indexing finished(3).
+2025-03-12 13:23:43.716 [info] [Error - 1:23:43 PM] (13252) Error creating python sandbox: TypeError: fetch failed

@@ -1,0 +1,30 @@
+2025-03-11 05:50:17.742 [info] Started local extension host with pid 76023.
+2025-03-11 05:50:25.126 [error] Error while getting the latest version for the extension github.codespaces. Offline
+2025-03-11 05:50:25.138 [error] Error while getting the latest version for the extension james-yu.latex-workshop. Offline
+2025-03-11 05:50:25.139 [error] Error while getting the latest version for the extension ms-python.debugpy. Offline
+2025-03-11 05:50:25.145 [error] Error while getting the latest version for the extension ms-python.vscode-pylance. Offline
+2025-03-11 05:50:25.148 [error] Error while getting the latest version for the extension reditorsupport.r. Offline
+2025-03-11 05:50:25.156 [error] Error while getting the latest version for the extension ms-python.python. Offline
+2025-03-11 05:50:25.157 [error] Error while getting the latest version for the extension ms-toolsai.jupyter. Offline
+2025-03-11 05:50:25.161 [error] Error while getting the latest version for the extension ms-toolsai.jupyter-keymap. Offline
+2025-03-11 05:50:25.166 [error] Error while getting the latest version for the extension ms-toolsai.jupyter-renderers. Offline
+2025-03-11 05:50:25.167 [error] Error while getting the latest version for the extension ms-toolsai.vscode-jupyter-cell-tags. Offline
+2025-03-11 05:50:25.169 [error] Error while getting the latest version for the extension ms-toolsai.vscode-jupyter-slideshow. Offline
+2025-03-11 05:50:25.173 [error] Error while getting the latest version for the extension quarto.quarto. Offline
+2025-03-11 05:50:28.602 [error] [chat setup] request: error Offline: Offline
+2025-03-11 05:50:29.277 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-03-11 05:50:32.083 [warning] Failed to fetch chat participant registry Offline
+2025-03-11 05:50:32.311 [info] [perf] Render performance baseline is -1ms
+2025-03-11 05:50:33.879 [info] Extension host (LocalProcess pid: 76023) is unresponsive.
+2025-03-11 05:50:34.646 [info] Extension host (LocalProcess pid: 76023) is responsive.
+2025-03-11 05:50:47.189 [info] Extension host (LocalProcess pid: 76023) is unresponsive.
+2025-03-11 05:50:52.195 [info] Extension host (LocalProcess pid: 76023) is responsive.
+2025-03-11 05:55:32.110 [warning] Failed to fetch chat participant registry Offline
+2025-03-11 06:00:34.214 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-11 06:05:35.628 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-11 06:10:36.491 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-11 06:15:37.226 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-11 06:20:38.159 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-11 06:25:41.502 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-11 06:30:44.532 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-11 06:35:44.544 [warning] Failed to fetch chat participant registry Failed to fetch

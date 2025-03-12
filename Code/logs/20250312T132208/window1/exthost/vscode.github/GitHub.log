@@ -1,0 +1,3 @@
+2025-03-12 13:22:49.447 [info] Log level: Info
+2025-03-12 13:23:06.333 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: Connect Timeout Error (attempted address: api.github.com:443, timeout: 10000ms)
+2025-03-12 13:23:12.136 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: Connect Timeout Error (attempted address: api.github.com:443, timeout: 10000ms)

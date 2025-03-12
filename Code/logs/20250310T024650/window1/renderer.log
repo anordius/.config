@@ -1,5 +1,0 @@
-2025-03-10 02:46:53.514 [info] Started local extension host with pid 58552.
-2025-03-10 02:47:01.971 [info] Settings Sync: Account status changed from uninitialized to unavailable
-2025-03-10 02:47:03.583 [info] Extension host (LocalProcess pid: 58552) is unresponsive.
-2025-03-10 02:47:06.478 [info] Extension host (LocalProcess pid: 58552) is responsive.
-2025-03-10 02:47:12.876 [info] [perf] Render performance baseline is -1ms

@@ -1,0 +1,6 @@
+file:///home/arnold/wd/programming/school/notes/paper_review.qmd {"mtime":1741774849853,"ctime":1741774663691,"size":56,"etag":"3ds6cp2a21p","orphaned":false,"typeId":""}
+this is influences
+
+```{r}
+pacman::p_load(tidyverse)
+```qqq

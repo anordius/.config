@@ -10,10 +10,10 @@
 	"view": {
 		"zoomLevel": 1,
 		"windowBounds": {
-			"width": 1200,
-			"height": 900,
 			"x": 0,
-			"y": 0,
+			"y": 68,
+			"width": 1248,
+			"height": 700,
 			"maximized": false
 		},
 		"accessibility": false,

@@ -1,0 +1,57 @@
+2025-03-11 20:16:57.452 [warning] Creation of workbench contribution 'workbench.chat.setup' took 26ms.
+2025-03-11 20:16:58.584 [info] Started local extension host with pid 20002.
+2025-03-11 20:17:08.711 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-03-11 20:17:14.797 [info] Extension host (LocalProcess pid: 20002) is unresponsive.
+2025-03-11 20:17:14.821 [info] Extension host (LocalProcess pid: 20002) is responsive.
+2025-03-11 20:17:23.936 [info] Extension host (LocalProcess pid: 20002) is unresponsive.
+2025-03-11 20:17:24.747 [info] Extension host (LocalProcess pid: 20002) is responsive.
+2025-03-11 20:17:33.358 [info] [perf] Render performance baseline is -1ms
+2025-03-11 20:17:41.947 [info] Extension host (LocalProcess pid: 20002) is unresponsive.
+2025-03-11 20:17:42.841 [info] Extension host (LocalProcess pid: 20002) is responsive.
+2025-03-11 21:22:05.889 [warning] Failed to fetch chat participant registry Offline
+2025-03-11 21:27:05.910 [warning] Failed to fetch chat participant registry Offline
+2025-03-11 21:32:05.928 [warning] Failed to fetch chat participant registry Offline
+2025-03-11 21:37:05.938 [warning] Failed to fetch chat participant registry Offline
+2025-03-11 21:42:05.950 [warning] Failed to fetch chat participant registry Offline
+2025-03-11 21:47:05.954 [warning] Failed to fetch chat participant registry Offline
+2025-03-11 21:52:05.961 [warning] Failed to fetch chat participant registry Offline
+2025-03-11 21:57:05.978 [warning] Failed to fetch chat participant registry Offline
+2025-03-11 22:02:05.985 [warning] Failed to fetch chat participant registry Offline
+2025-03-11 22:07:05.996 [warning] Failed to fetch chat participant registry Offline
+2025-03-11 22:12:06.006 [warning] Failed to fetch chat participant registry Offline
+2025-03-11 22:17:06.009 [warning] Failed to fetch chat participant registry Offline
+2025-03-11 22:24:09.306 [warning] Failed to fetch chat participant registry Offline
+2025-03-11 22:29:09.318 [warning] Failed to fetch chat participant registry Offline
+2025-03-11 22:34:09.327 [warning] Failed to fetch chat participant registry Offline
+2025-03-11 22:39:09.336 [warning] Failed to fetch chat participant registry Offline
+2025-03-11 22:44:09.516 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-11 23:49:11.771 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-11 23:54:11.777 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-11 23:59:11.792 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 00:04:11.808 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 00:09:11.830 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 00:14:11.849 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 00:19:11.871 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 00:24:11.890 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 00:29:11.907 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 00:34:11.921 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 00:39:11.936 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 00:44:11.951 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 00:49:11.972 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 00:54:11.985 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 00:59:11.998 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 01:04:12.019 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 01:09:12.037 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 01:14:12.054 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 01:19:12.078 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 01:24:12.096 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 01:29:12.112 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 01:34:12.126 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 01:39:12.151 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 01:44:12.167 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 01:49:12.191 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 01:54:12.209 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 01:59:12.228 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 02:04:12.249 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-03-12 02:28:08.720 [warning] Failed to fetch chat participant registry Offline
+2025-03-12 02:33:08.723 [warning] Failed to fetch chat participant registry Offline

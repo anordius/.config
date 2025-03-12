@@ -1,0 +1,2 @@
+2025-03-11 05:17:59.459 [warning] Shell integration cannot be enabled for executable "/usr/bin/R" and args ["--no-save","--no-restore"]
+2025-03-11 05:20:51.406 [warning] Shell integration cannot be enabled for executable "/usr/bin/tmux" and args undefined

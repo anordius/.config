@@ -1,0 +1,22 @@
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/Screenshots/Screenshot From 2025-02-21 05-27-25.png
+File2[$e]=$HOME/Pictures/Screenshots/Screenshot From 2025-02-22 05-34-54.png
+File3[$e]=$HOME/Pictures/Screenshots/Screenshot From 2025-02-22 05-42-18.png
+File4[$e]=$HOME/Pictures/Screenshots/Screenshot From 2025-02-22 05-52-36.png
+File5[$e]=$HOME/Pictures/Screenshots/Screenshot From 2025-02-22 05-56-01.png
+File6[$e]=$HOME/Pictures/Screenshots/Screenshot_20250311_211050.png
+Name1[$e]=Screenshot From 2025-02-21 05-27-25.png
+Name2[$e]=Screenshot From 2025-02-22 05-34-54.png
+Name3[$e]=Screenshot From 2025-02-22 05-42-18.png
+Name4[$e]=Screenshot From 2025-02-22 05-52-36.png
+Name5[$e]=Screenshot From 2025-02-22 05-56-01.png
+Name6[$e]=Screenshot_20250311_211050.png
+
+[SideBar]
+InformationSplitterSizes=0,0

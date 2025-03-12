@@ -1,0 +1,71 @@
+[Configure]
+Height 800=445
+Width 1280=595
+
+[DialogSelectMaster]
+Height 800=318
+Width 1280=271
+
+[Global]
+ConfigVersion=3
+MasterMixer=PulseAudio::Playback_Devices:1
+MasterMixerDevice=alsa_output.pci-0000_00_1b.0.analog-stereo
+Size=478,356
+Soundmenu.Mixers=PulseAudio::Playback_Devices:1,alsa_output.pci-0000_00_1b.0.analog-stereo,PulseAudio::Capture_Devices:1,alsa_input.pci-0000_00_1b.0.analog-stereo,PulseAudio::Playback_Streams:1,PulseAudio::Capture_Streams:1
+Visible=false
+
+[Profiles]
+PulseAudio::Capture_Devices:1=PulseAudio.Capture_Devices.1.default
+PulseAudio::Capture_Streams:1=PulseAudio.Capture_Streams.1.default
+PulseAudio::Playback_Devices:1=PulseAudio.Playback_Devices.1.default
+PulseAudio::Playback_Streams:1=PulseAudio.Playback_Streams.1.default
+
+[SystemTray]
+000=PulseAudio::Playback_Devices:1,1,audio-card,Playback Devices
+001=alsa_output.pci-0000_00_1b.0.analog-stereo,1,audio-card
+002=PulseAudio::Capture_Devices:1,1,audio-card,Capture Devices
+003=alsa_input.pci-0000_00_1b.0.analog-stereo,1,audio-card
+004=PulseAudio::Playback_Streams:1,1,media-playback-start,Playback Streams
+005=PulseAudio::Capture_Streams:1,1,media-playback-start,Capture Streams
+
+[View.PulseAudio.Capture_Devices.1.default.PulseAudio::Capture_Devices:1.alsa_input.pci-0000_00_1b.0.analog-stereo]
+Split=false
+
+[View.PulseAudio.Playback_Devices.1.default.PulseAudio::Playback_Devices:1.alsa_output.pci-0000_00_1b.0.analog-stereo]
+Split=false
+
+[View.PulseAudio.Playback_Devices.1.default.PulseAudio::Playback_Devices:1.auto_null]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.restore:sink-input-by-media-role:event]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:146]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:151]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:156]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:161]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:181]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:278]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:283]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:288]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:293]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:86]
+Split=false

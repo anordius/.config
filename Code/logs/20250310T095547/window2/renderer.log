@@ -1,9 +1,0 @@
-2025-03-10 09:56:25.800 [info] Started local extension host with pid 4628.
-2025-03-10 09:56:32.143 [info] Settings Sync: Account status changed from uninitialized to unavailable
-2025-03-10 09:56:34.309 [info] [perf] Render performance baseline is 352ms
-2025-03-10 09:56:41.593 [error] spawn truecolor ENOENT: Error: spawn truecolor ENOENT
-    at ChildProcess._handle.onexit (node:internal/child_process:285:19)
-    at onErrorNT (node:internal/child_process:483:16)
-    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
-2025-03-10 10:42:10.056 [error] [text file model] handleSaveError(32) - exit - resulted in a save error: Error: Unable to write file '/home/arnold/.config/bspwm/bspwmrc' (Error: File Modified Since) file:///home/arnold/.config/bspwm/bspwmrc
-2025-03-10 10:43:57.014 [error] [text file model] handleSaveError(32) - exit - resulted in a save error: Error: Unable to write file '/home/arnold/.config/bspwm/bspwmrc' (Error: File Modified Since) file:///home/arnold/.config/bspwm/bspwmrc
