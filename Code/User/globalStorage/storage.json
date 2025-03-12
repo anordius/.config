@@ -7,6 +7,9 @@
         "folders": [
             {
                 "folderUri": "file:///home/arnold/wd"
+            },
+            {
+                "folderUri": "file:///home/arnold/.config"
             }
         ],
         "emptyWindows": []

@@ -1,0 +1,2 @@
+2025-03-12 15:52:41.350 [info] Log level: Info
+2025-03-12 15:52:51.841 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_getCommitAuthor] Failed to get commit author for anordius/.config/836ab2c7a376a5219928a4d8ad760abf3be95888: TypeError: Cannot read properties of null (reading 'author')
